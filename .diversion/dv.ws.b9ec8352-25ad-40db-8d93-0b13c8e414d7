@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.b9ec8352-25ad-40db-8d93-0b13c8e414d7",
+  "RepoID": "dv.repo.1c7092eb-87df-41a5-810d-1c910489ce12",
+  "Path": "/Users/maribyrne/Documents/Unreal Projects/MyProject3",
+  "AccountID": "Google_117354676808428681268",
+  "BranchID": "dv.branch.6",
+  "BranchName": "sila-branch",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "SEEK",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}
